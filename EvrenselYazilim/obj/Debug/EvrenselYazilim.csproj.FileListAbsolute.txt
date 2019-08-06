@@ -1,0 +1,7 @@
+C:\Users\508Games\Documents\Visual Studio 2017\Projects\EvrenselYazilim\EvrenselYazilim\bin\Debug\EvrenselYazilim.exe.config
+C:\Users\508Games\Documents\Visual Studio 2017\Projects\EvrenselYazilim\EvrenselYazilim\bin\Debug\EvrenselYazilim.exe
+C:\Users\508Games\Documents\Visual Studio 2017\Projects\EvrenselYazilim\EvrenselYazilim\bin\Debug\EvrenselYazilim.pdb
+C:\Users\508Games\Documents\Visual Studio 2017\Projects\EvrenselYazilim\EvrenselYazilim\obj\Debug\EvrenselYazilim.csprojAssemblyReference.cache
+C:\Users\508Games\Documents\Visual Studio 2017\Projects\EvrenselYazilim\EvrenselYazilim\obj\Debug\EvrenselYazilim.csproj.CoreCompileInputs.cache
+C:\Users\508Games\Documents\Visual Studio 2017\Projects\EvrenselYazilim\EvrenselYazilim\obj\Debug\EvrenselYazilim.exe
+C:\Users\508Games\Documents\Visual Studio 2017\Projects\EvrenselYazilim\EvrenselYazilim\obj\Debug\EvrenselYazilim.pdb
